@@ -5,7 +5,7 @@ Expertise in building scalable server-side web applications using MVC PHP framew
 
 I write clean, documented, efficient and maintainable code, following coding principles such as SOLID, DRY, GRASP, KISS etc.
 
-My Main Expertise includes:-
+I have expertise in:-
 
 - PHP, Yii 2 / Laravel Framework
 - HTML5, Bootstrap, jQuery, Javascript
@@ -14,3 +14,10 @@ My Main Expertise includes:-
 - GIT
 - CMS: OpenCart & Wordpress
 - Android App Development using Java 
+
+I'm currently **learning** :-
+- AngularJs and TypeScript
+- Docker
+- CI & CD
+- Building Decentralized Apps on EOSIO ecosystem
+- Best practices for delivering high perfomance software
