@@ -14,6 +14,7 @@ I have expertise in:-
 - GIT
 - CMS: OpenCart & Wordpress
 - Android App Development using Java 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovicko&layout=compact&theme=dark)
 
 I'm currently **learning** :-
 - AngularJs and TypeScript
