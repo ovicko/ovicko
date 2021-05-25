@@ -3,7 +3,7 @@
 I have more than 4 years of experience in object-oriented programming and building complex web applications. 
 Expertise in building scalable server-side web applications using MVC PHP frameworks (Yii 2, Laravel), building and integrating APIs.
 
-I write clean, documented, efficient and maintainable code, following coding principles such as SOLID, DRY, GRASP, KISS etc.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovicko&layout=compact&theme=dark)
 
 I have expertise in:-
 
@@ -14,8 +14,6 @@ I have expertise in:-
 - GIT
 - CMS: OpenCart & Wordpress
 - Android App Development using Java 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovicko&layout=compact&theme=dark)
-
 I'm currently **learning** :-
 - AngularJs and TypeScript
 - Docker
