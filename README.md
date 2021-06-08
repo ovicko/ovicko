@@ -3,7 +3,14 @@
 I have more than 4 years of experience in object-oriented programming and building complex web applications. 
 Expertise in building scalable server-side web applications using MVC PHP frameworks (Yii 2, Laravel), building and integrating APIs.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovicko&layout=compact&theme=dark)
+<center>
+  <table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=ovicko&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovicko&hide=html&layout=compact&theme=dark" /></td>      
+  </tr>   
+</table>
+</center>
 
 I have expertise in:-
 
